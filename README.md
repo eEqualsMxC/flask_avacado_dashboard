@@ -1,4 +1,4 @@
-:avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocad
+:avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado:
 
 
 <div alighn="center">
@@ -8,4 +8,4 @@ The tutorial was obtained from https://realpython.com/python-dash/#what-is-dash
 </div>
 
 
-:avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocad
+:avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado:::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado::avocado:
